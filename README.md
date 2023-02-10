@@ -1,1 +1,3 @@
-[![Follow Mohamed El-Qassas GitHub](https://avatars.githubusercontent.com/u/49816567?s=96&v=4)](https://github.com/melqassas/)
+<p align="center">
+    <a href="https://xapptor.com/author"><img src="./images/xapptor_profile.jpg"/>
+</p>
